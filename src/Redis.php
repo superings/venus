@@ -1,6 +1,6 @@
 <?php
 
-namespace Supring\Venus;
+namespace Supering\Venus;
 
 class Redis
 {

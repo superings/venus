@@ -1,15 +1,15 @@
 {
-	"name":"supring/venus",
-	"description":"the new supring/venus",
+	"name":"supering/venus",
+	"description":"the new supering/venus",
 	"keywords":[
-		"supring",
+		"supering",
 		"venus"
 	],
-	"homepage":"https://github.com/supring/venus.git",
+	"homepage":"https://github.com/superings/venus.git",
 	"authors":[
 		{
-			"name":"supring",
-			"email":"venus@supring.com"
+			"name":"supering",
+			"email":"venus@supering.com"
 		}
 	],
 	"require":{
@@ -17,7 +17,7 @@
 	},
 	"autolad":{
 		"psr-4":{
-			"Supring\\Venus":"src/"
+			"Supering\\Venus":"src/"
 		}
 	}
 }

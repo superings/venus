@@ -17,7 +17,7 @@
 	},
 	"autolad":{
 		"psr-4":{
-			"supring\\venus":"src/"
+			"Supring\\Venus":"src/"
 		}
 	}
 }

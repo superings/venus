@@ -15,7 +15,7 @@
 	"require":{
 		"php":">=7.0"
 	},
-	"autolad":{
+	"autoload":{
 		"psr-4":{
 			"Supering\\Venus":"src/"
 		}

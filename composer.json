@@ -1,0 +1,23 @@
+{
+	"name":"supring/venus",
+	"description":"the new supring/venus",
+	"keywords":[
+		"supring",
+		"venus"
+	],
+	"homepage":"https://github.com/supring/venus.git",
+	"authors":[
+		{
+			"name":"supring",
+			"email":"venus@supring.com"
+		}
+	],
+	"require":{
+		"php":">=7.0"
+	},
+	"autolad":{
+		"psr-4":{
+			"supring\\venus":"src/"
+		}
+	}
+}
